@@ -1,0 +1,218 @@
+  "count": 5,
+  "courses": [
+    {
+      "courseId": "56dd40a0-e0fc-4731-8422-55353067cbed",
+      "categoryId": "81b102f0-211a-4f7e-8dbc-bb13893f460b",
+      "trainer": {
+
+        "fullName": "Ravikant Tyagi",
+        "about": "Good",
+        "developmentExperience": "8+ years",
+        "photo": "https://skillrisers-lms.s3.ap-south-1.amazonaws.com/pic_1.png",
+        "trainingExperience": "8+ years",
+        "awardsOrAchivements": "Tons of",
+        "headline": "My goal is to make everyone understand the true meaning of development with real time practical scenarios.",
+        "biography": "<p>Hello everyone, I am Ravikant Tyagi and I do have experience of 8+ years in IT as a developer and trainer. I have more than 100 websites live on internet and I have taught thousands of students, teachers & developers to learn to code and how to become professional developer with 100% practical knowledge.</p>\n"
+      },
+      "title": "Supervised Deep Learning with ANN, CNN & RNN",
+      "slug": "3461228-supervised-deep-learning-with-ann-cnn-rnn",
+      "subTitle": "Learn Deep Learning from scratch using Python and implement 5 Case Studies",
+      "deion": "<p>Welcome to the course of supervised deep learning from scratch using Python Programming with <strong>Tensorflow Framework. </strong>In this course you will learn to <strong>build 5 case studies</strong> that includes images and text processing.</p>\n<p>In this course you are going to learn ANN and its maths and that to implemented using <strong>Python from scratch using numpy only.</strong></p>\n<p>Then you will learn to implement ANN with Tensorflow along with some case studies to get started with. Topics that we are going to cover:</p>\n<p><strong>ANN - Artificial Neural Network</strong></p>\n<ul>\n<li>Feedforward and Backpropagation</li>\n<li>Implementing ANN from Scratch</li>\n<li>Machine Learning vs Deep Learning Comparison</li>\n</ul>\n<p>Introduction to Tensorflow</p>\n<p><strong>CNN - Convolutional Neural Network</strong></p>\n<ul>\n<li>Understanding CNN </li>\n<li>CNN Implementation using Tensoflow</li>\n<li>CNN Case Study Traffic Sign Classification</li>\n<li>Model Optimization</li>\n<li>Gradient Tape</li>\n</ul>\n<p><strong>RNN</strong></p>\n<ul>\n<li>Introduction to RNN</li>\n<li>RNN Maths</li>\n<li>Addition to 2 Binary Numbers using RNN</li>\n<li>Introduction to LSTM</li>\n<li>Sentiment Analysis using LSTM</li>\n</ul>\n<p><strong>RNN Case Study</strong></p>\n<p></p>\n",
+      "prerequisites": [
+        "Basics of Python Programming",
+        "Little bit of Machine Learning"
+      ],
+      "objectives": [
+        "Learn Deep Learning using Python from Scratch",
+        "100% practical learning",
+        "Learn Tensorflow with practical implementation",
+        "Build 5 case studies with images and text datasets"
+      ],
+      "targetAudience": [
+        "Anyone with basic knowledge of Python and Machine Learning",
+        "Students, Developers or Faculty members who wants to get started in Deep Learning from zero level"
+      ],
+      "level": 0,
+      "locale": "",
+      "courseImage": "https://brain-mentors.com/wp-content/uploads/2020/05/FLUTTER.png",
+      "originalPrice": "5500",
+      "costPrice": 599,
+      "totalNumChapters": 155,
+      "createdAt": "2022-09-01T02:03:56.292Z",
+      "lastUpdated": "2022-09-08T14:16:18.158Z",
+      "isFree": false,
+      "promoAsset": null,
+      "isPublished": true
+    },
+    {
+      "courseId": "2e11697b-263d-41ad-afbf-d8dcf0aef15b",
+      "categoryId": "81b102f0-211a-4f7e-8dbc-bb13893f460b",
+      "trainer": {
+        "fullName": "Ravikant Tyagi",
+        "about": "Good",
+        "developmentExperience": "8+ years",
+        "photo": "https://skillrisers-lms.s3.ap-south-1.amazonaws.com/pic_1.png",
+        "trainingExperience": "8+ years",
+        "awardsOrAchivements": "Tons of",
+        "headline": "My goal is to make everyone understand the true meaning of development with real time practical scenarios.",
+        "biography": "<p>Hello everyone, I am Ravikant Tyagi and I do have experience of 8+ years in IT as a developer and trainer. I have more than 100 websites live on internet and I have taught thousands of students, teachers & developers to learn to code and how to become professional developer with 100% practical knowledge.</p>\n"
+      },
+      "title": "Data Analysis & Visualization Using Python",
+      "slug": "1125124-data-analysis-visualization-using-python",
+      "subTitle": "Learn Data Analysis using numpy, pandas and matplotlib with Python Programming",
+      "deion": "<p>Welcome to this simple and crisp course on <strong>data analysis and visualization using Python Programming</strong>. In this course you will learn from basics of Python to the data analysis libraries like <strong>numpy, pandas, matplotlib & seaborn and much more.</strong></p>\n<p>Topics we are going to cover</p>\n<p><strong>Introduction to Python Programming</strong></p>\n<ul>\n<li>Basics of Python</li>\n<li>Loops and If Else</li>\n<li>List, Tuples, Dictionary & Sets</li>\n<li>Movie Recommandation using Python</li>\n</ul>\n<p><strong>Data Collection techniques</strong></p>\n<ul>\n<li>Web scraping</li>\n<li>API Calls</li>\n<li>Collection of data from database using PyMySQL</li>\n</ul>\n<p><strong>Data Analysis and Visualization</strong></p>\n<ul>\n<li>Introduction to Numpy and its methods</li>\n<li>Different ways to create array</li>\n<li>Numpy Slicing and Broadcasting</li>\n<li>Introduction to Pandas</li>\n<li>EDA using Python</li>\n<li>Case Study on Olympics Dataset</li>\n<li>Introduction to Matplotlib</li>\n<li>Learning Different charts and graphs</li>\n<li>Final Case Study on Covid-19 Data</li>\n</ul>\n",
+      "prerequisites": ["Basic Statistics", "Just a laptop for implementation"],
+      "objectives": [
+        "Learn Basics of Python Programming",
+        "Deep Dive into Numpy Library",
+        "Data Analysis & Visualization Using Pandas and Matplotlib",
+        "Case Studies on Real Time Datasets"
+      ],
+      "targetAudience": [
+        "IT or Non IT students",
+        "Freshers, Developers and Faculties to get started with Python and Data Analysis"
+      ],
+      "level": 0,
+      "locale": "",
+      "courseImage": "https://brain-mentors.com/wp-content/uploads/2020/11/android.jpg",
+      "originalPrice": "5500",
+      "costPrice": 599,
+      "totalNumChapters": 271,
+      "createdAt": "2022-09-01T02:03:28.811Z",
+      "lastUpdated": "2022-09-08T14:16:35.194Z",
+      "isFree": false,
+      "promoAsset": null,
+      "isPublished": true
+    },
+    {
+      "courseId": "2529108e-6637-4e57-8ecd-bfcde1f1ce36",
+      "categoryId": "0e7d6a1b-0bce-479f-85fe-106407b27282",
+      "trainer": {
+        "fullName": "Amit Srivastava",
+        "about": "I'm a passionate software engineer with two decades of experience and I've taught over 3 million people who to code or how to become professional software engineers through my YouTube channel and online courses.",
+        "developmentExperience": "15 years",
+        "photo": "https://skillrisers-lms.s3.ap-south-1.amazonaws.com/amit.jpeg",
+        "trainingExperience": "5 years",
+        "awardsOrAchivements": "Certified Java Developer.",
+        "headline": "My goal is to make software engineering fun and accessible to everyone. That's why my courses are simple, pragmatic and free of BS.",
+        "biography": "<p>Hi! My name is Amit Srivastava! I'm a passionate software engineer with two decades of experience and I've taught over 10000+ students who to code or how to become professional software engineers .</p>\n<p></p>\n"
+      },
+      "title": "Dart Essentials ",
+      "slug": "1113072-dart-essentials-",
+      "subTitle": "Learn Dart Programming in depth",
+      "deion": "<p><strong>Covers</strong>:</p>\n<p>Fundamentals of Dart</p>\n<p>Functional Programming Concepts</p>\n<p>Async Programming Concepts</p>\n<p>Object Oriented Programming Concepts</p>\n<p>Null Safety in Dart</p>\n<p>Assertion</p>\n<p>Singleton</p>\n<p></p>\n",
+      "prerequisites": [
+        "A Windows, macOS or Linux machine",
+        "Enough free space to install Visual Studio Code and the Dart SDK"
+      ],
+      "objectives": [
+        "Dart Programming Language in Depth",
+        "Fundamental concepts in programming: variables, types, control flow, collections,",
+        "Functional Programming , Object Oriented Programming, Async Programming",
+        "Null Safety, Assertion, Singleton"
+      ],
+      "targetAudience": [
+        "Everyone curious about one of the best programming language available to date",
+        "Who want to become Dart and Flutter Developers "
+      ],
+      "level": 0,
+      "locale": "",
+      "courseImage": "https://brain-mentors.com/wp-content/uploads/2020/11/android.jpg",
+      "originalPrice": "5500",
+      "costPrice": 535,
+      "totalNumChapters": 289,
+      "createdAt": "2022-08-28T15:51:53.160Z",
+      "lastUpdated": "2022-09-08T14:15:25.766Z",
+      "isFree": false,
+      "promoAsset": null,
+      "isPublished": true
+    },
+    {
+      "courseId": "e9cc433f-ae0d-4c87-985d-80622dabbc69",
+      "categoryId": "0e7d6a1b-0bce-479f-85fe-106407b27282",
+      "trainer": {
+        "fullName": "Ravikant Tyagi",
+        "about": "Good",
+        "developmentExperience": "8+ years",
+        "photo": "https://skillrisers-lms.s3.ap-south-1.amazonaws.com/pic_1.png",
+        "trainingExperience": "8+ years",
+        "awardsOrAchivements": "Tons of",
+        "headline": "My goal is to make everyone understand the true meaning of development with real time practical scenarios.",
+        "biography": "<p>Hello everyone, I am Ravikant Tyagi and I do have experience of 8+ years in IT as a developer and trainer. I have more than 100 websites live on internet and I have taught thousands of students, teachers & developers to learn to code and how to become professional developer with 100% practical knowledge.</p>\n"
+      },
+      "title": "Python Programming for Absolute Beginners",
+      "slug": "8247521-python-programming-for-absolute-beginners",
+      "subTitle": "Learn Python Programming from scratch and build awesome examples and 2D games",
+      "deion": "<p>One of the most popular language of 21st century is Python Programming and not only people from IT backgrounds are using it but it is required now for different domains like <strong>Electronics, Mechanical, Management, Finance, Sales, Bio, Maths etc.</strong></p>\n<p>If you have never seen or worked with any programming language earlier than this can become your first programming to get started with. </p>\n<p>This course covers python programming from beginner level to intermediate level. <strong>In this course we have covered topics like</strong></p>\n<ul>\n<li>Basics of python - Variables and Data Types</li>\n<li>Loops and If Else</li>\n<li>Data Collections</li>\n<li>API Calls</li>\n<li>Web Scraping</li>\n<li>Functional Programming</li>\n<li>2D Game Development</li>\n<li>Basic Desktop GUI Applications</li>\n</ul>\n",
+      "prerequisites": [
+        "No Programming Experience is required",
+        "Just a laptop and lot of energy"
+      ],
+      "objectives": [
+        "Learning python from basic level to intermediate level",
+        "You will be able to use python in any domain like Software Development, Web Development, Data Science etc",
+        "Build 2D Games and Desktop Applications"
+      ],
+      "targetAudience": [
+        "Complete Beginners to Experienced",
+        "Students, Freshers or any working professionals"
+      ],
+      "level": 0,
+      "locale": "",
+      "courseImage": "https://brain-mentors.com/wp-content/uploads/2020/11/android.jpg",
+      "originalPrice": "12999",
+      "costPrice": 1199,
+      "totalNumChapters": 471,
+      "createdAt": "2022-08-23T10:17:52.880Z",
+      "lastUpdated": "2022-09-08T14:17:03.241Z",
+      "isFree": false,
+      "promoAsset": null,
+      "isPublished": true
+    },
+    {
+      "courseId": "40cefb63-abdd-4d9c-a929-1f81477893bd",
+      "categoryId": "5de63233-c33b-4bf0-bd9c-ac6da5745cbb",
+      "trainer": {
+        "fullName": "Ravikant Tyagi",
+        "about": "Good",
+        "developmentExperience": "8+ years",
+        "photo": "https://brain-mentors.com/wp-content/uploads/2020/11/android.jpg",
+        "trainingExperience": "8+ years",
+        "awardsOrAchivements": "Tons of",
+        "headline": "My goal is to make everyone understand the true meaning of development with real time practical scenarios.",
+        "biography": "<p>Hello everyone, I am Ravikant Tyagi and I do have experience of 8+ years in IT as a developer and trainer. I have more than 100 websites live on internet and I have taught thousands of students, teachers & developers to learn to code and how to become professional developer with 100% practical knowledge.</p>\n"
+      },
+      "title": "Complete UI Development for Beginners to Expert",
+      "slug": "8174642-complete-ui-development-for-beginners-to-expert",
+      "subTitle": "Learn HTML 4, HTML 5, CSS 2, CSS 3 and Bootstrap with real time examples like Flipkart and Healthkart",
+      "deion": "<p>This is the course that every beginner, fresher or experienced can try to learn UI from scratch. This course contains HTML 4, CSS 2, HTML 5, CSS 3 and Bootstrap tutorials based on <strong>W3C Standards. </strong>After this course you will be able to understand how to build a webiste UI from scratch. This course includes replicas of websites like <strong>Flipkart, Healthkart and Other Online Shopping Application.</strong></p>\n<p>HTML Topics that are covered</p>\n<ul>\n<li><strong>HTML Basic Tags</strong></li>\n<li><strong>Inline and Block Tags</strong></li>\n<li><strong>List, Tables</strong></li>\n<li><strong>Form Handling in HTML 4 and HTML 5</strong></li>\n<li><strong>Semantics of HTML 5</strong></li>\n</ul>\n<p>CSS Topics that are covered</p>\n<ul>\n<li><strong>Ways to Use CSS</strong></li>\n<li><strong>Selectors in CSS 2 and CSS 3</strong></li>\n<li><strong>Borders and Backgrounds</strong></li>\n<li><strong>Parallax Effect Using CSS Only</strong></li>\n<li><strong>Box Models</strong></li>\n<li><strong>Text Formatting</strong></li>\n<li><strong>Font Awesome and Google Fonts</strong></li>\n<li><strong>Alignment Using Float, Flex, Grid</strong></li>\n<li><strong>Clearfix Hack</strong></li>\n<li><strong>2D and 3D Transformation and Animations</strong></li>\n<li><strong>Positions</strong></li>\n<li><strong>Display</strong></li>\n<li><strong>RWD using Media Queries</strong></li>\n</ul>\n<p>Bootstrap</p>\n<ul>\n<li><strong>Containers and Grid System</strong></li>\n<li><strong>Components and much more</strong></li>\n</ul>\n<p></p>\n",
+      "prerequisites": [
+        "No Programming experience is required",
+        "Just VS Code for writing HTML and CSS",
+        "Internet Connection"
+      ],
+      "objectives": [
+        "You will be able to understand W3C Standards of HTML and CSS",
+        "You will be able to build replicas of websites like Flipkart and Healthkart using CSS 2",
+        "How to build a website UI from scratch",
+        "Complete Responsive UI using HTML 5 and CSS 3"
+      ],
+      "targetAudience": [
+        "Any beginenners or Intermediates",
+        "Students or any working professionals",
+        "Designers who wants to add HTML and CSS as skill in there resume"
+      ],
+      "level": 0,
+      "locale": "",
+      "courseImage": "https://brain-mentors.com/wp-content/uploads/2020/05/coursestemplate.png",
+      "originalPrice": "7500",
+      "costPrice": 999,
+      "totalNumChapters": 671,
+      "createdAt": "2022-08-20T14:18:33.563Z",
+      "lastUpdated": "2022-09-08T14:17:19.421Z",
+      "isFree": false,
+      "promoAsset": null,
+      "isPublished": true
+    }
+  ]
+}
